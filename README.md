@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [Ankush Sharma](http://scorchingshade.github.io/), a Full Stack Developer 🚀 from India. I am also an entrepreneur and am currently working as Project Lead 🙍🏽‍♂️ .Beside's programming, I enjoy cooking, having long walks, boxing and pulling of pranks!
+Hi, I'm [Ankush Sharma](http://scorchingshade.github.io/), a Full Stack Developer 🚀 from India. I am also an entrepreneur and am currently working as Project Lead 🙍🏽‍♂️ . Beside's programming, I enjoy cooking, having long walks, boxing and pulling pranks!
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ScorchingShade/ScorchingShade/main/code.gif" width="500" height="320" />
   
