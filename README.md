@@ -26,10 +26,10 @@ Hi, I'm [Ankush Sharma](http://scorchingshade.github.io/), a Full Stack Develope
 **Let's look at what am I doing write now!:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning React Native and System Design; 
+- 🌱 I’m currently learning React and Frontend architecture; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ankushors789](https://twitter.com/ankushors789);
-- 📝[Resume](https://drive.google.com/file/d/1CYnszx1jv0Y1uWnqpPLWQRgbb8Y_Q2BA/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/16mLyuMZc236WTP4-h_P0iHZ9T9ZtVuN2/view?usp=sharing)
 
 **Languages and Tools:**  
 
