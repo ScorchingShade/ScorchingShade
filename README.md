@@ -91,5 +91,5 @@ Right now I am listening to <br>
 </details>
 
 ## To know more about me :octocat:
- :point_right:  <a href="https://scorchingshade.github.io/">scorchingshade.github.io</a>
+ :point_right:  <a href="http://ankush.tech/">ankush.tech</a>
 
